@@ -1,4 +1,4 @@
-# CIS641-HW2-Maangi
+# CIS641-HW3-Maangi
 ## Samuel Hudson Manwa Maangi
 - I’m interested in information systems management.
 - I’m currently learning System Analysis and Design
